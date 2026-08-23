@@ -61,7 +61,7 @@ export default function Hero() {
           >
             <Scale className="w-4 h-4 text-gold" />
             <span className="text-xs uppercase tracking-[0.2em] font-sans font-bold text-gold">
-              Boutique Law Firm Terkemuka di Jakarta
+              Law Firm Terpercaya
             </span>
           </motion.div>
 
